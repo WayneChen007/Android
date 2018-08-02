@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FillMemory</string>
+    <string name="btn_fill">填充</string>
+    <string name="btn_release">释放</string>
+    <string name="label_free_size">剩余内存：</string>
+    <string name="label_used_size">已用内存：</string>
+    <string name="label_total_size">总内存：</string>
+    <string name="label_free_percent">当前内存占用比：</string>
+    <string name="btn_size">大小</string>
+    <string name="btn_percent">比例</string>
+    <string name="hint_new_size">请填写</string>
+    <string name="unit_size">MB</string>
+    <string name="unit_percent">%</string>
+    <string name="label_new_size">填充</string>
+    <string name="label_new_percent">填充至</string>
+    <string name="default_text">--</string>
+    <string name="clickable_tip">请先释放内存，再切换tab</string>
+    <string name="tips_size">(由于系统动态调整其他应用的内存，剩余内存会波动)</string>
+    <string name="tips_percent">(由于系统动态调整其他应用的内存，内存占用比会波动)</string>
+    <string name="tips_cpu_percent">(由于系统动态调整应用的CPU，CPU占用比会波动)</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_imageButton">16dp</dimen>
+    <dimen name="setting_text_size">16sp</dimen>
+    <dimen name="setting_item_height">45dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="tr_popup_window_imageButton">45dp</dimen>
+    <dimen name="tr_popup_window_text">12sp</dimen>
+    <dimen name="weak_net_speed_text_size">15sp</dimen>
+    <!-- gifhelper -->
+    <dimen name="expand_bar_height">75dp</dimen>
+    <dimen name="bottom_bar_height">55dp</dimen>
+    <dimen name="icon_login">120dp</dimen>
+    <dimen name="icon_small_img">50dp</dimen>
+    <dimen name="icon_checkbox">20dp</dimen>
+    <dimen name="icon_exit">25dp</dimen>
+    <dimen name="icon_expand">20dp</dimen>
+    <dimen name="icon_upload">30dp</dimen>
+    <dimen name="icon_btn_selected">20dp</dimen>
+    <dimen name="login_app_name">24sp</dimen>
+    <dimen name="login_login_btn">20sp</dimen>
+    <!-- recording -->
+    <dimen name="rec_sub_button_size">40dp</dimen>
+    <dimen name="rec_sub_action_button_content_margin">10.6dp</dimen>
+    <dimen name="rec_countdown_size">150dp</dimen>
+    <dimen name="rec_countdown_textsize">130px</dimen>
+    <dimen name="rec_countdown_shadow_radius">2dp</dimen>
+    <dimen name="rec_float_center_size">44dp</dimen>
+    <dimen name="rec_bottom_bar_height">130dp</dimen>
+    <dimen name="rec_noti_icon_size">40dp</dimen>
+</resources>
